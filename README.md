@@ -1,9 +1,8 @@
 # Happy Valentines Day
-
-## Description
-Happy Valentines Day Card
+Happy Valentines Day card for my Bae-4-Ever
 
 ## Dependencies
 - HTML
 - CSS
 - Javascript
+
